@@ -1,0 +1,9 @@
+.user-detail-container {
+    padding: 20px;
+  }
+  
+  .user-detail-card {
+    max-width: 500px;
+    box-shadow: none;
+  }
+  
